@@ -1,4 +1,4 @@
-requests==2.23.0
+requests==2.31.0
 kafka-python==1.4.7
 faust==1.10.3
 pandas==1.0.1
